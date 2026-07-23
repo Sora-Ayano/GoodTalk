@@ -1,7 +1,9 @@
 ## 基本信息
 
 name：Good Good Talk Day Day UP
+
 version：0.6.0
+
 description：On the Internet, nobody knows you're a dog.
 
 一个用于 [哔哩哔哩 (bilibili.com)](https://www.bilibili.com) 的 Tampermonkey / Violentmonkey 用户脚本，提供自定义表情包与可配置的评论净化功能。
